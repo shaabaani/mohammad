@@ -3,14 +3,12 @@ html { margin: 0;padding: 0; }
 body *{ font-family: Yekan,Tahoma,"DejaVu Sans",helvetica,arial,freesans,sans-serif; } 
 
 body {
-    background-color: #D2B48C; /* Straw color */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
+    background-color: #D2B48C;
+
+    width: 1000px;
     margin: 0;
 }
 
 .name {
-    font-size: 270%;
+    font-size: 2rem;
 }
