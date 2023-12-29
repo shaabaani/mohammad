@@ -1,0 +1,12 @@
+body {
+    background-color: #D2B48C; /* Straw color */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.name {
+    font-size: 270%;
+}
