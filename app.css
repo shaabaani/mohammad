@@ -1,3 +1,7 @@
+* { margin: 0;padding: 0; }
+html { margin: 0;padding: 0; }
+body *{ font-family: Yekan,Tahoma,"DejaVu Sans",helvetica,arial,freesans,sans-serif; } 
+
 body {
     background-color: #D2B48C; /* Straw color */
     display: flex;
